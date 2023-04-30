@@ -1,0 +1,13 @@
+name = "BloxFox Client"
+author = "Crazicek"
+version = "1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "99d0fe5b2c32f89762e6a8cc72d04eb9f80885dbd7907eed682e8a97428d97df"
+
+[versions]
+minecraft = "1.19.4"
+quilt = "0.18.10"
