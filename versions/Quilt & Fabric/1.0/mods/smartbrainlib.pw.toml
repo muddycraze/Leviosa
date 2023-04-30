@@ -1,0 +1,13 @@
+name = "SmartBrainLib"
+filename = "SmartBrainLib-quilt-1.19.2-1.8.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/PuyPazRT/versions/iKI7O10v/SmartBrainLib-quilt-1.19.2-1.8.jar"
+hash-format = "sha1"
+hash = "f6890556872fda760631430018704c96d2f21116"
+
+[update]
+[update.modrinth]
+mod-id = "PuyPazRT"
+version = "iKI7O10v"

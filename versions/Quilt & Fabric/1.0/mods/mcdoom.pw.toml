@@ -1,0 +1,13 @@
+name = "MCDoom"
+filename = "MCDoom-Fabric-1.19.2-5.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Mfo4FiDF/versions/V7LOuknq/MCDoom-Fabric-1.19.2-5.0.1.jar"
+hash-format = "sha1"
+hash = "305ec34a614de5fe9dc3d0d03b7015e0a21049c3"
+
+[update]
+[update.modrinth]
+mod-id = "Mfo4FiDF"
+version = "V7LOuknq"

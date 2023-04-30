@@ -1,0 +1,13 @@
+name = "Runes"
+filename = "runes-fabric-0.9.6+1.19.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lP9Yrr1E/versions/nrfgbVmW/runes-fabric-0.9.6%2B1.19.jar"
+hash-format = "sha1"
+hash = "8a69be76b020d9371bd49df20f9a8bfe90e01354"
+
+[update]
+[update.modrinth]
+mod-id = "lP9Yrr1E"
+version = "nrfgbVmW"

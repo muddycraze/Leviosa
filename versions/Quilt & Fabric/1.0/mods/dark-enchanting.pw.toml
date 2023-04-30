@@ -1,0 +1,13 @@
+name = "Dark Enchanting"
+filename = "dark-enchanting-1.0.2+1.19.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6M87Z355/versions/8oeGwkE3/dark-enchanting-1.0.2%2B1.19.2.jar"
+hash-format = "sha1"
+hash = "e77c50e37fa5a7c2aa0c1c7bfb9145c7af68a2fe"
+
+[update]
+[update.modrinth]
+mod-id = "6M87Z355"
+version = "8oeGwkE3"
